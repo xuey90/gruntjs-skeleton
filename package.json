@@ -3,6 +3,7 @@
   "version": "0.0.6",
   "devDependencies": {
     "grunt": "~0.4.x",
+    "grunt-cli": "~0.1.13",
     "grunt-contrib-cssmin": "~0.x",
     "grunt-contrib-jshint": "~0.x",
     "grunt-contrib-watch": "~0.x",
