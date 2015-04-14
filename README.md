@@ -1,3 +1,7 @@
+[![Build Status](https://codeship.com/projects/af7538b0-c46f-0132-b02a-46867e328226/status?branch=master)](https://codeship.com/projects/74124)
+
+[![Build Status](https://travis-ci.org/xuey90/gruntjs-skeleton.svg?branch=branch)](https://travis-ci.org/xuey90/gruntjs-skeleton) 
+
 # Grunt.js Skeleton #
 
 Get up and running with Grunt fast with the **Grunt.js Skeleton**!
